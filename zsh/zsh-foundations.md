@@ -25,4 +25,4 @@
 * if, else, then for example
 
 ## Functions
-* $1 gets us into using the first argument
+* `$1` gets us into using the first argument
