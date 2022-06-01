@@ -26,3 +26,9 @@
 
 ## Functions
 * `$1` gets us into using the first argument
+
+## Built ins and commands
+* `builtin <cmd>` and `command <cmd>` to see built ins
+
+## Finding Help
+* `man zsh`
