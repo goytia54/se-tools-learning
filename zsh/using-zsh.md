@@ -72,10 +72,13 @@
 * `!` for one char
 * `c[u,a]t` to match `cat` and `cut`
 
-## zmv
+## `zmv`
 * uses globbing to do mass commands, touch `file_{0..100}`
 * `zmv 'file_(*)' 'log_$1'
 * only work with name of the files
 * `-n` option before you change the file names
 
-
+## Scripting
+* `zsh scriptfile`
+* `#!/usr/bin/env zsh
+* `chmod +x` to make it executable
