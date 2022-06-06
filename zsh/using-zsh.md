@@ -68,4 +68,14 @@
 * `{1..5}{a..c}` for permutations
 
 ### Filename Expansion
-* `~` 
+* `~`
+* `!` for one char
+* `c[u,a]t` to match `cat` and `cut`
+
+## zmv
+* uses globbing to do mass commands, touch `file_{0..100}`
+* `zmv 'file_(*)' 'log_$1'
+* only work with name of the files
+* `-n` option before you change the file names
+
+
