@@ -32,8 +32,40 @@
 
 ### Multios
 * 0 is standard input, 1 is standard output, 2 is standard error
+* 2> is standard error while 1> is standoutput
 
+## Command History
+* up arrow and down arrow
+* ctrl A and crtl E to get to beginning and end of command
+* r var=bin to replace values of last command
+* `setopt histignorespace` to exclude from command history
+* `setopt interactivecomments` to save a command in the history
 
+## History shell variables
+* `!!` previous
+* `!*` previous arg command
+* `$_` for the last command 
 
+## Expansions
+### History Expansion 
+* `!!` last command
+* `!252` for ordered
 
+### Alias Expansion
+* take alias and expands
 
+### Process Substitution
+
+### Parameter Expansion
+* Stores values, `a=apple`
+* `${a}apple` to match
+
+### Command Sub
+* `(command)`
+
+### Arithmetic Expansion
+* `{1..5}`
+* `{1..5}{a..c}` for permutations
+
+### Filename Expansion
+* `~` 
