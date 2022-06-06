@@ -21,3 +21,19 @@
 * `setopt completeinword` to be able to go back and get autocomplet
 * `setopt correct` to turn on spell check for commands
 
+## Redirection and multios
+
+### Inputs and outputs
+* `<:` `>:`
+* `setopt noclobber` to not let you redirect and not overwrite but can use `>>` to append
+
+### Piping
+* Usually use `|` but also can use `| tee myfile` to
+
+### Multios
+* 0 is standard input, 1 is standard output, 2 is standard error
+
+
+
+
+
