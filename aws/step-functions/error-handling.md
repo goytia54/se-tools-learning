@@ -22,6 +22,7 @@
 "Retry":[{ "ErrorEuals": ["States.Timeout"],
 ```
 * low number max attemps
+* Can set backoff rates as well as 
 
 ### Catching
 ```
