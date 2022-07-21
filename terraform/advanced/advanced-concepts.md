@@ -41,4 +41,13 @@ output "name" {
 
 ### Terraform Functions
 * String `split()` `join()` `length`
-* 
+
+### `count` and `for_each` meta arguments
+
+#### `count`
+* Use `count` to create multiple times
+* Output variable have to be accounted for, using `.*`, splat expression
+
+#### `for_each`
+* Iterate over sets and maps
+
