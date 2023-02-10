@@ -40,5 +40,15 @@ volumes:
 ```
 
 ## Exposing Ports
+* Can expose multiple ports
+```
+[host port]:[container port]
+[from]:[to]
+```
+
+```
+  ports:
+    - "81:80"
+```
 
 ## Enforcing Start-up Order
