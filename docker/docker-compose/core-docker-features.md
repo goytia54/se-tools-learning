@@ -52,3 +52,9 @@ volumes:
 ```
 
 ## Enforcing Start-up Order
+```
+services:
+  scheduler:
+    depends_on:
+      - database
+```
