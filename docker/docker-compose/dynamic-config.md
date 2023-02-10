@@ -22,4 +22,4 @@
 * `${TAG}`, defaults to empty string
 * Make it in line, or pass it in or a `.env` file or pass in `--env-file [path]`
 * Any env set in shell will override
-* Require env file :?opps tag is required
+* Require env file `:? opps TAG` to make the env var required
