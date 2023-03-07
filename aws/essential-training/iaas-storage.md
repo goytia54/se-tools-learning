@@ -13,3 +13,14 @@
 * Like dropbox
 * Slower then EFS and EBS
 * Don't expose files you don't want. Keep public and private buckets to keep things seperate
+* Don't put the key onto the server
+
+## IAM Roles
+* You can give a ec2 instance a role so it has acceess to the bucket
+
+## S3 Glacier
+* Only put data that infrequently used, wait sometime to access
+
+## CloudFront
+* Push contents to edge servers all over the world
+* Content Delivery Network
