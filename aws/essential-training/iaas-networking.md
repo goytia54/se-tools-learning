@@ -27,3 +27,13 @@
 
 ### AWS Site to Site VPN
 * Bridge on prem with VPC, cloud migration or hybrid module
+
+## ELB
+* Elastic Load Balancer, splits up traffic and balancing between applications
+* If server goes down takes out, or healthy one is given a break to do downloads
+
+### Network Load Balances
+* fast but not many features
+
+### Application Load Balancers
+* more features, great for web traffic, not as fast
