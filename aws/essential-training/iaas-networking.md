@@ -18,3 +18,12 @@
 
 ## Elastic IPs
 * Need IP to stay the same assign elastic ips. release the eleastic ip if you no longer need it
+
+## VPN
+* Virtual private network
+
+### AWS Client VPC
+* Can talk to VPC, secure tunnel straight to VPC.
+
+### AWS Site to Site VPN
+* Bridge on prem with VPC, cloud migration or hybrid module
