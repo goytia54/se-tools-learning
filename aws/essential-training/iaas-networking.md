@@ -37,3 +37,7 @@
 
 ### Application Load Balancers
 * more features, great for web traffic, not as fast
+
+## DNS (Route 53)
+* Phone book of the internet, all go over route 53
+
