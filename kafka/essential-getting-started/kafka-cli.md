@@ -18,3 +18,8 @@
 ```
 ./kafka-topics.sh --bootstrap-server localhost:9092 --describe
 ```
+
+## Topic Managments
+* Can modify and delete topics
+* Can use the zookeepr client to explore the brokers
+
