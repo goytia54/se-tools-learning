@@ -32,3 +32,6 @@ properties used to specify the key and value
 
 ### Consumer example
 * If consumer crashes and not committed, another consumer will receive another message to commit message
+
+### LAG
+* Difference between current offset and commited offset
