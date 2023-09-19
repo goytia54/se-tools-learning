@@ -26,3 +26,13 @@
 
 ### Expert Systems
 * List of steps provided by experts, run into same problems
+* Long lists of matching patterns, need experts
+* Could not find a match
+
+### GOFAI
+* Good old fashion AI
+
+## Plan AI
+* Still have to plan out how to match symbols and patterns
+* Hueristic (random) reasoning, common sense, limitting the searching
+* google maps, collecting maps
