@@ -34,4 +34,15 @@
 ### Vector Addition
 * Can only add things of the same dimension
 
-### Vector 
+### Vector Subtraction
+* Same as addition
+
+### Vector scaler multplication is easy
+* Need to use numpy array
+
+## Coordinate System
+* Unit Vectors
+* OB (0,1) A(1,0)
+* (0,3) + (4,0) -> (4,3)
+
+
