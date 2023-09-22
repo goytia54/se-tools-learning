@@ -28,3 +28,10 @@
 * Numpy arrays
 * ([[1,2,3,4]]) column vector
 * ([[1],[2],[3],[4]])row vector
+
+## Vector Arithmetic
+
+### Vector Addition
+* Can only add things of the same dimension
+
+### Vector 
