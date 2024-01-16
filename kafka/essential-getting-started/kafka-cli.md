@@ -26,6 +26,6 @@
 ## Sending data to a topic
 You can use a tool like jq to send json to a topic
 
-*`jq -rc . sampledata.json | kafka-console-producer --broker-list localhost:9092 --topic  stream-test-topic`
+* `jq -rc . sampledata.json | kafka-console-producer --broker-list localhost:9092 --topic  stream-test-topic`
   * `-r` raw output
   * `-c` concise
