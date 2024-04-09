@@ -21,3 +21,5 @@
 
 ## Surface boilerplate and common patterns
 * Great for getting boiler plates and common patterns
+* Have to right prompts
+* WON'T SURFACE NEW PATTERNS
